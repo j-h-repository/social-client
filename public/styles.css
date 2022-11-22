@@ -1,0 +1,30 @@
+.profile-pic{
+    font-size: 60px;
+    }
+
+.follow{
+    cursor:pointer
+}
+
+.time {
+    font-size: 10px;
+}
+
+.ant-modal-content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+
+  .comp {
+    height: 70vh;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .user:hover{
+    background-color:lightgray;
+    border-radius: 10px;
+  }
