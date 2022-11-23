@@ -4,7 +4,7 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import "antd/dist/antd.css";
 import Head from "next/head";
-import "../../public/styles.css"
+import "../public/styles.css"
 
 import { UserProvider } from "../context";
 
