@@ -17,7 +17,7 @@ const Home = ()=>{
       >
         <h1 className="display-2 font-weight-bold text-center">Homepage</h1>
         <div className="row">
-            <div className="col-md-8 offset-2">
+            <div className="col-sm-8 offset-2">
                 <h1>
                     This is a simple web project (my first) that was built to gain a basic understanding of how utilize a functional web app using a front-end framework, Nodejs, and MongoDB
                  </h1>
